@@ -1,5 +1,5 @@
 # easier_studwiz
-This small script will either print the links or download the pdfs contained at a specific [studwiz]([Studwiz.com - University notes, exercises, exams](https://www.studwiz.com/)) page. Usage:
+This small script will either print the links or download the pdfs contained at a specific [studwiz](https://www.studwiz.com/) page. Usage:
 
 ```python
 $ python app.py <url> [<download_path>]
