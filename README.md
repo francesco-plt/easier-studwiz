@@ -1,2 +1,11 @@
 # easier_studwiz
- Studwiz, but just the .pdfs you need
+This small script will either print the links or download the pdfs contained at a specific [studwiz]([Studwiz.com - University notes, exercises, exams](https://www.studwiz.com/)) page. Usage:
+
+```python
+$ python app.py <url> [<download_path>]
+```
+
+Where:
+
+* `<url>` is the url which contains all the links you want to download.
+* `<download_path>` is optional. If specified all the links will be downloaded to this directory.
