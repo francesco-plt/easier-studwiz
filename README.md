@@ -8,4 +8,4 @@ $ python app.py <url> [<download_path>]
 Where:
 
 * `<url>` is the url which contains all the links you want to download.
-* `<download_path>` is optional. If specified all the links will be downloaded to this directory.
+* `<download_path>` is optional. If specified all the files will be downloaded to this directory.
