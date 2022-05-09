@@ -1,4 +1,4 @@
-# easier_studwiz
+# easier-studwiz
 This small script will either print the links or download the pdfs contained at a specific [studwiz](https://www.studwiz.com/) page.
 
 ## Installation
